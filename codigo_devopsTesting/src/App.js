@@ -9,7 +9,7 @@ function App() {
         <p>
           DevOps Testing  <code>CI-CD</code> ESAN Project
         </p>
-          SEMANA 15 21/11/2025 ///
+          Semana 15
           <a href="https://www.esan.edu.pe/">learn react</a>
           <p>Prueba de SOftware</p>
       </header>
